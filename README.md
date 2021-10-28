@@ -1,5 +1,9 @@
-# Gestion-Projet
+# Gestion-Projet 
 Dans le cadre d'améliorer nos Compétences acquises dans le module "Gestion de Projet", Nous -équipe de 5 personnes- étions ammenées à suivre le processus de gestion des projets exactement ceux liés à notre domaine.
+
+
+Projet : La création d'un portail web pour la location de véhicules qui consiste à faire la réservation en ligne selon les besoins des clients et leurs préférences des véhicules.
+
 
 Missions :
 
